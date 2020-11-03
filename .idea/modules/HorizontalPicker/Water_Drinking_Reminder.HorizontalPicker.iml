@@ -33,6 +33,11 @@
     <content url="file://$MODULE_DIR$/../../../HorizontalPicker">
       <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build/generated/res/rs/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../HorizontalPicker/build" />
     </content>
