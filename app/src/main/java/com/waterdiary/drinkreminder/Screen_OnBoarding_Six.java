@@ -370,7 +370,7 @@ public class Screen_OnBoarding_Six extends MasterBaseFragment
 		int mins = (int) ((mills/(1000*60)) % 60);
 		float total_minutes=(hours*60)+mins;
 
-		int interval=rdo_15.isChecked()?15:rdo_30.isChecked()?30:rdo_45.isChecked()?45:60;
+		int interval=rdo_15.isChecked()?1:rdo_30.isChecked()?30:rdo_45.isChecked()?45:60;
 
 		int consume=0; // @@@@@
 		if(total_minutes>0)
